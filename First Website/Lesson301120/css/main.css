@@ -1,0 +1,22 @@
+/*   <link rel="stylesheet" href="css/main.css">  */
+
+h2 {
+    color: rgb(11, 167, 71);
+}
+/*   class selector  */
+.butter {
+    color: red;
+    margin: 0;
+    border: red;
+    font-style: italic;
+}
+/*   selector  */
+div {
+    color: rgb(11, 167, 37);
+}
+
+#stayhome {
+    color: rgb(38, 0, 255);
+    margin: 0;
+    font-style: initial;
+}

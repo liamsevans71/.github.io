@@ -1,0 +1,195 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    overflow: hidden;
+    
+    background-color: #f3f3f3;
+    padding: 0px;
+   
+
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #ddd;
+  }
+  
+.two {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBgczT8O-GS_wh-xkIaT8L7v07QDx8vvEGqg&usqp=CAU") ;
+ background-size: 1366px 768px; 
+ image-rendering: auto;
+}
+ 
+
+
+#aboutus { 
+background-color: white;
+text-align: center;
+  
+  background-size: 1366px 768px;
+ font-size: 22px;
+}
+
+#hours {
+    background-color: rgb(40, 69, 88);
+    color: white;
+    font-size: 20px;
+}
+
+
+#one {
+  margin: auto;
+  width: 60%;
+  border: 3px solidwhite;
+  padding: 10px;
+}
+
+.stapleford {
+  background-color: white;
+  text-align: center;
+  
+}
+
+#contactus {
+  background-color: rgb(40, 69, 88);
+  font-size: 22px;
+  text-align: center;
+  color: white;
+}
+
+#Ilkeston {
+background-color: white;
+text-align: center;
+
+}
+
+#random {
+  background-color: rgb(40, 69, 88);
+  text-align: center;
+  font-size: 22px;
+  color: white;
+}
+
+.button:link, .button:visited{
+  background-color: rgb(40, 69, 88 );
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  text-align: center;
+  top: 125%;
+  left: 100%;
+  right: 200px;
+}
+
+.button:hover, .button:active {
+  background-color: white;
+  color: rgb(40, 69, 88);
+  align-items: center;
+  text-align: center;
+}
+
+.outside {
+  position: absolute;
+  right: 30px;
+  width: 450px;
+  padding: 10px;
+  overflow: auto;
+  height: 400px;
+  position: relative;
+  margin: 0;
+  position: absolute;
+  top: 135%;
+  left: 25%;
+  transform: translate(50%, 50%);
+}
+
+.booknow:link, .booknow:visited {
+  background-color: rgb(40, 69, 88 );
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  text-align: center;
+  top: 400%;
+  left: 100%;
+  right: 200px;
+
+}
+
+.booknow:hover, .booknow:active {
+  background-color: white;
+  color: rgb(40, 69, 88);
+  align-items: center;
+  text-align: center;
+
+}
+
+footer {
+background-color: white;
+text-align: center;
+
+}
+
+.facebook:link, .facebook:visited{
+  background-color: rgb(40, 69, 88 );
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  text-align: center;
+  top: 400%;
+  left: 100%;
+  right: 200px;
+
+}
+
+.facebook:hover, .facebook:active {
+  background-color: rgb(40, 69, 88 );
+  color: white;
+  align-items: center;
+  text-align: center;
+}
+
+.socialmedia:link, .socialmedia:visited {
+  background-color: rgb(40, 69, 88 );
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  align-items: center;
+  text-align: center;
+  text-align: center;
+  top: 400%;
+  left: 100%;
+  right: 200px;
+}
+
+.socialmedia:hover, .socialmedia:active {
+  background-color: rgb(40, 69, 88 );
+  color: white;
+  align-items: center;
+  text-align: center;
+}
